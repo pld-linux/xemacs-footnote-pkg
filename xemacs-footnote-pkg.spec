@@ -2,7 +2,7 @@ Summary:	Footnoting in mail message editing modes
 Summary(pl):	Footnoting in mail message editing modes
 Name:		xemacs-footnote-pkg
 %define 	srcname	footnote
-Version:	1.12
+Version:	1.13
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
