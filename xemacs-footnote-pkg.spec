@@ -2,12 +2,12 @@ Summary:	Footnoting in mail message editing modes
 Summary(pl):	Przypisy w trybie edycji wiadomo¶ci pocztowych
 Name:		xemacs-footnote-pkg
 %define 	srcname	footnote
-Version:	1.15
+Version:	1.16
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	1cbe1e587881611006d9a8fc82be3be1
+# Source0-md5:	79dc557f3be890dc6f3e7793fef6f1b6
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
