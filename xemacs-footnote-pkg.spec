@@ -1,5 +1,5 @@
 Summary:	Footnoting in mail message editing modes
-Summary(pl):	Przypisy w trybie edycji wiadomo∂ci pocztowych
+Summary(pl.UTF-8):   Przypisy w trybie edycji wiadomo≈õci pocztowych
 Name:		xemacs-footnote-pkg
 %define 	srcname	footnote
 Version:	1.16
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Footnoting in mail message editing modes.
 
-%description -l pl
-Przypisy w trybie edycji wiadomo∂ci pocztowych.
+%description -l pl.UTF-8
+Przypisy w trybie edycji wiadomo≈õci pocztowych.
 
 %prep
 %setup -q -c
